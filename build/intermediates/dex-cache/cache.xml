@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android Studio\Design-Demo-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\Android Studio\Design-Demo-master\app\build\intermediates\pre-dexed\debug\classes-683d60da6dc100b14611dacd5eea27613d83c114.jar" />
+    </item>
+    <item
+        jar="D:\Android Studio\Design-Demo-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="D:\Android Studio\Design-Demo-master\app\build\intermediates\pre-dexed\debug\classes-307805a612c0e2feb3e0c0c8e59ef64f460d03a9.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\Design-Demo-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\AndroidStudio\Design-Demo-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-326634809437c5bc7bd4818c25e7619dbc08c728.jar" />
+    </item>
+    <item
+        jar="D:\Android Studio\Design-Demo-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="D:\Android Studio\Design-Demo-master\app\build\intermediates\pre-dexed\debug\classes-01cc793723213e0d3cd4b7319396ec52c3c9f9cb.jar" />
+    </item>
+    <item
+        jar="D:\Android Studio\Design-Demo-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="D:\Android Studio\Design-Demo-master\app\build\intermediates\pre-dexed\debug\classes-a7f0bf42c4647bc015b8f1b0d0d5c4b9b929995a.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\Design-Demo-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="D:\AndroidStudio\Design-Demo-master\app\build\intermediates\pre-dexed\debug\classes-e193ff62e63ffb17c355bb683e0c4f4b5fa1efc1.jar" />
+    </item>
+    <item
+        jar="D:\Android Studio\Design-Demo-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="D:\Android Studio\Design-Demo-master\app\build\intermediates\pre-dexed\debug\classes-3fd6d725558f4f17bd768a19621599541d893b53.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\Design-Demo-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\AndroidStudio\Design-Demo-master\app\build\intermediates\pre-dexed\debug\classes-945db36c63778eb12fcb713b05e462c3f208bea3.jar" />
+    </item>
+    <item
+        jar="D:\Android Studio\Design-Demo-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="D:\Android Studio\Design-Demo-master\app\build\intermediates\pre-dexed\debug\classes-bcb7dd42987ae9a8ad95f673c453341a17587bf0.jar" />
+    </item>
+    <item
+        jar="D:\Android Studio\Design-Demo-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="D:\Android Studio\Design-Demo-master\app\build\intermediates\pre-dexed\debug\classes-434927c4c86a3761e54b021cc53ccc3b6a34b02e.jar" />
+    </item>
+    <item
+        jar="D:\Android Studio\Design-Demo-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="D:\Android Studio\Design-Demo-master\app\build\intermediates\pre-dexed\debug\classes-2fc07fa5eadb6ff73cd94ea05ca3a9fbe90c7635.jar" />
+    </item>
+    <item
+        jar="D:\Android Studio\Design-Demo-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="D:\Android Studio\Design-Demo-master\app\build\intermediates\pre-dexed\debug\classes-d179ae185a88762d7b1de984a9c702f108589174.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\Design-Demo-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="D:\AndroidStudio\Design-Demo-master\app\build\intermediates\pre-dexed\debug\classes-b69690c5ea846fab16d38f792ebca76e330d1335.jar" />
+    </item>
+    <item
+        jar="D:\Android Studio\Design-Demo-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="D:\Android Studio\Design-Demo-master\app\build\intermediates\pre-dexed\debug\classes-2dbd28155b6aecd2fea36444ea71c88dda45a814.jar" />
+    </item>
+    <item
+        jar="C:\Users\avikal\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\AndroidStudio\Design-Demo-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-98b3be73b8665f06f56d843a04c07748bc20e40d.jar" />
+    </item>
+    <item
+        jar="D:\Android Studio\Design-Demo-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="D:\Android Studio\Design-Demo-master\app\build\intermediates\pre-dexed\debug\classes-7355f658c5f37b504c86c96626f82d12f8d47129.jar" />
+    </item>
+    <item
+        jar="D:\Android Studio\Design-Demo-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="D:\Android Studio\Design-Demo-master\app\build\intermediates\pre-dexed\debug\classes-dbad8ccee997d8db1873469b64e16650b8e0cf40.jar" />
+    </item>
+    <item
+        jar="D:\Android Studio\Design-Demo-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="D:\Android Studio\Design-Demo-master\app\build\intermediates\pre-dexed\debug\classes-25cb71aa00a07d6a281d4b469ebc03277337886c.jar" />
+    </item>
+    <item
+        jar="D:\Android Studio\Design-Demo-master\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="D:\Android Studio\Design-Demo-master\app\build\intermediates\pre-dexed\debug\classes-3b8a635766d6eda1c14c59e59f1bbed7b6f6e420.jar" />
+    </item>
+    <item
+        jar="D:\Android Studio\Design-Demo-master\app\build\intermediates\exploded-aar\Design-Demo-master.libs\ViewPagerIndicator-Library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9fbed852fc75160fc3c1ca6fd092b0ee8078510e">
+        <dex dex="D:\Android Studio\Design-Demo-master\app\build\intermediates\pre-dexed\debug\classes-b6c4c1606a50614a32a94571f5ef761cda899bc9.jar" />
+    </item>
+    <item
+        jar="D:\Android Studio\Design-Demo-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="D:\Android Studio\Design-Demo-master\app\build\intermediates\pre-dexed\debug\classes-9ceccc0c1f4585fcb4d09924780840d5b523f565.jar" />
+    </item>
+    <item
+        jar="D:\Android Studio\Design-Demo-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="D:\Android Studio\Design-Demo-master\app\build\intermediates\pre-dexed\debug\classes-fe31bb519566de807bf90ba19d7e85f2218e1aa8.jar" />
+    </item>
+    <item
+        jar="D:\Android Studio\Design-Demo-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\Android Studio\Design-Demo-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-01153dc5f8865d47c21bbca8f9335d614a2e0f8c.jar" />
+    </item>
+    <item
+        jar="D:\Android Studio\Design-Demo-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="D:\Android Studio\Design-Demo-master\app\build\intermediates\pre-dexed\debug\classes-7ecd8d4ac4dae025354a0e77ed72a8fb22166c52.jar" />
+    </item>
+    <item
+        jar="D:\Android Studio\Design-Demo-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="D:\Android Studio\Design-Demo-master\app\build\intermediates\pre-dexed\debug\classes-eba35c864a7936e1b4d63b6f9a1e38088fcb6b47.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\Design-Demo-master\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="D:\AndroidStudio\Design-Demo-master\app\build\intermediates\pre-dexed\debug\classes-d33fe7580f31fcc339b8839fb28d970321b24e7e.jar" />
+    </item>
+    <item
+        jar="D:\Android Studio\Design-Demo-master\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="D:\Android Studio\Design-Demo-master\app\build\intermediates\pre-dexed\debug\classes-7d73bf5014f050eafdf79da837a59d564abb3ff8.jar" />
+    </item>
+    <item
+        jar="D:\Android Studio\Design-Demo-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="D:\Android Studio\Design-Demo-master\app\build\intermediates\pre-dexed\debug\classes-5989e619d346b2d5dbda13f20efb4ed5b3461db7.jar" />
+    </item>
+    <item
+        jar="D:\Android Studio\Design-Demo-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="D:\Android Studio\Design-Demo-master\app\build\intermediates\pre-dexed\debug\classes-e1bf4906bbfb404ec73fd499013ecef3ca874851.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\Design-Demo-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\AndroidStudio\Design-Demo-master\app\build\intermediates\pre-dexed\debug\classes-ceb3c1e7670621b75587bfe4fd3d52c6b9f69cbd.jar" />
+    </item>
+    <item
+        jar="D:\Android Studio\Design-Demo-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="D:\Android Studio\Design-Demo-master\app\build\intermediates\pre-dexed\debug\classes-d682439e812781eafd3470709d13151b1afee37b.jar" />
+    </item>
+    <item
+        jar="D:\Android Studio\Design-Demo-master\app\libs\gcm.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
+        <dex dex="D:\Android Studio\Design-Demo-master\app\build\intermediates\pre-dexed\debug\gcm-cb29a956603cf31908cec0646fd303e95f169d0c.jar" />
+    </item>
+    <item
+        jar="D:\Android Studio\Design-Demo-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="D:\Android Studio\Design-Demo-master\app\build\intermediates\pre-dexed\debug\classes-5d4ba3bce171d259385642a8d2d3b0d8328dc20b.jar" />
+    </item>
+    <item
+        jar="D:\Android Studio\Design-Demo-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="D:\Android Studio\Design-Demo-master\app\build\intermediates\pre-dexed\debug\classes-a606328756fb28ba401452f5b7e54611d7e1349a.jar" />
+    </item>
+    <item
+        jar="D:\Android Studio\Design-Demo-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\Android Studio\Design-Demo-master\app\build\intermediates\pre-dexed\debug\classes-3bf57b6daf2ab6a5e247ebf699c1bedcd87ca2ad.jar" />
+    </item>
+
+</items>

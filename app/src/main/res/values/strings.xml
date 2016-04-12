@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Design Demo</string>
+    <string name="one">ONE</string>
+    <string name="eight">EIGHT</string>
+    <string name="five">FIVE</string>
+    <string name="four">FOUR</string>
+    <string name="nine">NINE</string>
+    <string name="seven">SEVEN</string>
+    <string name="six">SIX</string>
+    <string name="ten">TEN</string>
+    <string name="three">THREE</string>
+    <string name="two">TWO</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nav_item_attachment">Home</string>
+    <string name="nav_item_images">About-Us</string>
+    <string name="nav_item_location">Services</string>
+    <string name="nav_sub_menu">Sub Menu</string>
+    <string name="nav_sub_menu_item01">Sub Menu Item 1</string>
+    <string name="nav_sub_menu_item02">Sub Menu Item 2</string>
+    <string name="drawer_header_text">Drawer Header</string>
+    <string name="second_activity_text">Welcome to City Look’s Salon and Academy. We are a chain of Salons equipped with internationally skilled experts. We are trendy and innovative unisex salon that caters to all age group and genders. In all words we are a ‘Family Salon’. Having ambience of Indian culture and western infrastructure our salon provides a world class service in hair and beauty. Over a short span of time me and my team has worked hard and earned a good reputation in the salon industry. We proudly excel in beautifying for the hair, skin, body… .</string>
+    <string name="title_activity_second">SecondActivity</string>
+
+    <string name="nav_item_offers">Offers</string>
+    <string name="nav_item_acadmy">Acadamy</string>
+    <string name="nav_item_appointment">Appointment</string>
+    <string name="nav_item_testimonial">Testimonial</string>
+    <string name="nav_item_contact">Contact</string>
+
+    <string name="menu_notification">Notification</string>
+    <string name="menu_contact">Contact</string>
+    <string name="menu_feedback">Feedback</string>
+    <string name="title_activity_contact">Contact Us</string>
+
+    <string-array name="notification_list">
+        <item>Notification</item>
+        <item>Notification1</item>
+        <item>Notification2</item>
+        <item>Notification3</item>
+        <item>Notification5</item>
+        <item>Notification6</item>
+        <item>Notification7</item>
+    </string-array>
+    <string-array name="service_list">
+        <item>Notification</item>
+        <item>Notification1</item>
+        <item>Notification2</item>
+        <item>Notification3</item>
+        <item>Notification5</item>
+        <item>Notification6</item>
+        <item>Notification7</item>
+    </string-array>
+
+    <string name="server_registered">Demo Server: successfully added device!</string>
+    <string name="server_register_error">Could not register device on Demo Server after %1$d attempts.</string>
+    <string name="server_unregistered">Demo Server: successfully removed device!</string>
+    <string name="server_unregister_error">Could not unregister device on Demo Server (%1$s).</string>
+    <string name="gcm_unregistered">GCM: device successfully unregistered!</string>
+    <string name="gcm_deleted">GCM: server deleted %1$d pending messages!</string>
+    <string name="gcm_error">GCM: error (%1$s).</string>
+    <string name="gcm_recoverable_error">GCM: recoverable error (%1$s).</string>
+     <string name="cheese_ipsum">Jarlsberg lancashire edam. Dolcelatte hard cheese brie st. agur blue
+    cheese caerphilly bavarian bergkase cheese and biscuits mascarpone. Cheeseburger swiss bavarian
+    bergkase cream cheese fromage frais cheesy feet port-salut airedale. St. agur blue cheese rubber
+    cheese caerphilly cheddar cheesecake cream cheese manchego lancashire. Roquefort squirty cheese
+    the big cheese.</string>
+
+    <array name="images_array">
+        <item>http://lh5.ggpht.com/_hepKlJWopDg/TB-_WXikaYI/AAAAAAAAElI/715k4NvBM4w/s144-c/IMG_0075.JPG</item>
+        <item>http://lh4.ggpht.com/_4f1e_yo-zMQ/TCe5h9yN-TI/AAAAAAAAXqs/8X2fIjtKjmw/s144-c/IMG_1786.JPG</item>
+        <item>http://lh3.ggpht.com/_GEnSvSHk4iE/TDSfmyCfn0I/AAAAAAAAF8Y/cqmhEoxbwys/s144-c/_MG_3675.jpg</item>
+
+    </array>
+</resources>

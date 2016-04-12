@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navigation_item_home"
+            android:checked="true"
+            android:icon="@drawable/home"
+            android:title="@string/nav_item_attachment"
+            />
+        <item
+            android:id="@+id/navigation_item_aboutus"
+            android:icon="@drawable/about_us"
+
+            android:title="@string/nav_item_images" />
+        <item
+            android:id="@+id/navigation_item_services"
+            android:icon="@drawable/services"
+            android:title="@string/nav_item_location" />
+
+        <item
+            android:id="@+id/navigation_item_offers"
+            android:icon="@drawable/offers"
+            android:title="@string/nav_item_offers" />
+
+        <item
+            android:id="@+id/navigation_item_acadamy"
+            android:icon="@drawable/acadamy"
+            android:title="@string/nav_item_acadmy" />
+        <item
+            android:id="@+id/navigation_item_appointment"
+            android:icon="@drawable/calender"
+            android:title="@string/nav_item_appointment" />
+       <!-- <item
+            android:id="@+id/navigation_item_testimonial"
+            android:icon="@drawable/ic_place"
+            android:title="@string/nav_item_testimonial" />-->
+        <item
+            android:id="@+id/navigation_item_contact"
+            android:icon="@drawable/contact"
+            android:title="@string/nav_item_contact" />
+
+
+    </group>
+
+    <!--<item android:title="@string/nav_sub_menu">
+        <menu>
+            <item
+                android:icon="@drawable/ic_emoticon"
+                android:title="@string/nav_sub_menu_item01" />
+            <item
+                android:icon="@drawable/ic_emoticon"
+                android:title="@string/nav_sub_menu_item02" />
+        </menu>
+    </item>-->
+
+</menu>
